@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084559135649",
+    "project_id": "chatreactnativeapp-48c1c",
+    "storage_bucket": "chatreactnativeapp-48c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084559135649:android:1da3dd2c8f0248516071e0",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084559135649-igm7ucurfu84hhvd1cgh9vs0b150cpe0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlmtD8sbqi9G4Rrf-Gwsp9TOHCk1k0FHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084559135649-igm7ucurfu84hhvd1cgh9vs0b150cpe0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
